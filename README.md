@@ -1,4 +1,4 @@
-# Web-App-Project-TIW-2022-Paci-Riboni
+# Web App Project Paci-Riboni
 
 ## About
 
