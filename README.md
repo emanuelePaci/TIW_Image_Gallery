@@ -37,16 +37,16 @@ A thick client application using **JavaScript(JS)** connected to a **JAVA** serv
 
 ## Media
 - Login
-![](screenshot//LoginRIA.png) 
+![](screenshots//LoginRIA.png) 
 
 - Homepage Pure HTML
-![](screenshot//HomePure.png) 
+![](screenshots//HomePure.png) 
 
 - Homepage RIA
-![](screenshot//HomeRIA.png) 
+![](screenshots//HomeRIA.png) 
 
 - Album Page Pure HTML
-![](screenshot//AlbumPure.png) 
+![](screenshots//AlbumPure.png) 
 
 - Popup RIA
-![](screenshot//PopupRIA.png) 
+![](screenshots//PopupRIA.png) 
