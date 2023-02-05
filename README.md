@@ -36,17 +36,17 @@ A thin client application connected to a **JAVA** server that communicates with 
 A thick client application using **JavaScript(JS)** connected to a **JAVA** server that communicates with an **SQL** database. The web pages are managed client-side with a combination of **HTML + JavaScript(JS) + CSS**;
 
 ## Media
-- Login
+### Login
 ![](screenshots//LoginRIA.png) 
 
-- Homepage Pure HTML
+### Homepage Pure HTML
 ![](screenshots//HomePure.png) 
 
-- Homepage RIA
+### Homepage RIA
 ![](screenshots//HomeRIA.png) 
 
-- Album Page Pure HTML
+### Album Page Pure HTML
 ![](screenshots//AlbumPure.png) 
 
-- Popup RIA
+### Popup RIA
 ![](screenshots//PopupRIA.png) 
